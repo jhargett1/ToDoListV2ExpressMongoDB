@@ -2,6 +2,9 @@
 
 A simple ToDo list web app built with Node.js, Express, MongoDB and EJS templates.
 
+![ToDoListAppV2](https://github.com/jhargett1/ToDoListV2ExpressMongoDB/assets/119984652/05c67452-1ef5-41a1-926b-5c1f6b256093)
+
+
 ## Usage
 
 To use the app:
