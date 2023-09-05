@@ -23,7 +23,7 @@ npm install
 npm start
 ```
 
-4. Navigate to `http://localhost:3000`
+4. Navigate to `http://localhost:3030`
 
 The home page will show the "Today" list with default items. 
 
